@@ -1,0 +1,4 @@
+﻿D:\Microsoft Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project29.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+C:\Users\angelescapelayer\Desktop\Projects\Project29\Source.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Project29.vcxproj -> C:\Users\angelescapelayer\Desktop\Projects\Project29\Debug\Chapter 3.11.exe
