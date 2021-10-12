@@ -3,4 +3,4 @@ Condition:
 Create a calculator that performs actions on monetary amounts,
 expressed in pounds, shillings and pence, if 1 pound equals 20 shillings and 1 shilling equals 12 pence.
 
-Добрый вечер! Задание засчитала! Меженная. Рекомендую поработать над именами переменных (внутренними).
+Добрый вечер! Задание засчитала бы, если бы знала ваши фамилию, имя! Меженная. Рекомендую поработать над именами переменных (внутренними).
